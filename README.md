@@ -1,2 +1,1 @@
-# AutomationDemo
-פרויקט אוטומציה לבדיקת אתר DemoBlaze הכולל בדיקות פונקציונליות להרשמה, התחברות, סל קניות ורכישה, תוך שימוש ב-Selenium ו-Framework מתאים.
+"# Automation-CSharp" 
