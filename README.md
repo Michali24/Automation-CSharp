@@ -1,4 +1,4 @@
-# C# Automation
+# Automated UI Testing for DemoBlaze using Selenium and C#
 ---
 
 ## 🔹 Project Description:
